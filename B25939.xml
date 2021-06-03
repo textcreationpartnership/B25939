@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the imprisonment and tryal of Mr. David Lewis, priest of the Society of Jesus at the assizes held at Monmouth, March 28, 1679, to which is annexed his last speech at the place of execution, August 27, 1679 / written by himself.</title>
+            <author>Lewis, David, Saint, 1617-1679.</author>
+         </titleStmt>
+         <extent>Approx. 50KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25939</idno><idno type="EEBO-CITATION">11849819</idno>
+  <idno type="VID">49927</idno>
+  <idno type="EEBO-PROQUEST">2264213553</idno>
+  
+            <idno type="STC">Wing L1837</idno>
+            <idno type="STC">ESTC R16096</idno>
+            <idno type="OCLC">11849819</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 719:9a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the imprisonment and tryal of Mr. David Lewis, priest of the Society of Jesus at the assizes held at Monmouth, March 28, 1679, to which is annexed his last speech at the place of execution, August 27, 1679 / written by himself.</title>
+                  <author>Lewis, David, Saint, 1617-1679.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: "Mr. Johnson's [i.e. John Wall's] speech which he deliver'd to his friend to be printed (as he mention'd at the place of execution)": 8 p. at end, is lacking in filmed copy.</note>
+                  <note>Reproduction of original in Library of Congress and Huntington Library.</note>
+                  <note>With: The last speech of Mr. David Lewis. [London : s.n., 1679].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lewis, David, --  Saint, 1617-1679.</term>
+               <term type="corporate_name">Jesuits --  England.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:49927:1"/>
+            <pb n="1" facs="tcp:49927:1"/>
+            <head>A NARRATIVE OF THE Imprisonment and Tryal of Mr. <hi>David Lewis,</hi> Priest of the Society of <hi>Jesus. Written by himself.</hi> At the Assizes held at <hi>Monmouth March</hi> 28. 1679. To which is annexed His last SPEECH at the Place of Execution, <hi>August</hi> 27. 1679.</head>
+            <p>AFter my full thirty years poor missionary Labours in <hi>South-Wales,</hi> on <hi>Sunday</hi> morning, a little before day, being the 17th of <hi>November</hi> 1678. I was taken by six Armed Men, sent by Mr. <hi>John Arnold,</hi> and Mr. <hi>Charles Price,</hi> till then two my very good Friends and Acquaintance, I was taken in a little House, in the Parish of St. <hi>Michael-Lantarnam,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Monmouth.</hi> From thence by the Soldiers, together with what Church-stuff of mine they there found, carried I was to the House of Mr. <hi>Charles Price</hi> in <hi>Llanffoyst,</hi> where I found Mr. <hi>Thomas Lewis</hi> of St. <hi>Peere,</hi> Mr. <hi>John Arnold,</hi> and Mr. <hi>Charles Price</hi> himself, who, about two of the Clock in the Afternoon, with their Servants, to the number of a Dozen Horse, all Armed, conducted me to the <hi>Gol<g ref="char:EOLhyphen"/>den-Lyon</hi> in <hi>Abergavenny;</hi> at the entring whereof, some meeting Mr. <hi>Arnold,</hi> saluted him, and loudly said, Good News, Good News, <hi>Coniers</hi> the pretended Arch-Bishop of <hi>Canterbury</hi> is taken in <hi>Ireland;</hi> and we, said Mr. <hi>Arnold,</hi> have taken the pretended Bishop of <hi>Llandaff;</hi> together with them I went up to a Chamber, a Guard being put upon the Door, immediately they sent for Mr. <hi>William Jones,</hi> Re<g ref="char:EOLhyphen"/>corder of the Town, and Justice of Peace, to assist with the rest, at my Examina<g ref="char:EOLhyphen"/>tion and Commitment; Mr. <hi>Price</hi> telling me, I was not to be my own Accuser, Mr. <hi>Arnold</hi> called for one <hi>William James,</hi> (one who had been my Servant four years, and then there present) who upon Oath deposed, That he had seen me at Mass at least twenty times, whereupon my Commitment was drawn and signed by Mr. <hi>Thomas Lewis,</hi> Mr. <hi>Charles Price,</hi> and Mr. <hi>William Jones,</hi> and Committed. Here Mr. <hi>Thomas Lewis</hi> ask'd me, upon my Word, Had I any hand in the late Horrid Plot? I answered, upon my Word, and if he pleas'd, upon my Oath, I had none; whereupon Mr. <hi>Arnold</hi> said, That with us it was no Oath to swear on their Bibles; and I desir'd him to pick and choose his Bible, I was ready to swear.</p>
+            <p>Being Committed, after Supper it was proposed to me, by Mr. <hi>Lewis</hi> of St. <hi>Peere,</hi> Whether that Night there in the <hi>Lyon</hi> I would lodge under a Guard, or go with Mr. <hi>Arnold</hi> to his House, where Mr. <hi>Arnold</hi> assur'd me, I should be most civilly en<g ref="char:EOLhyphen"/>tertain'd; I referred my self unto them, Why, then said Mr. <hi>Lewis</hi> of St. <hi>Peere,</hi> by consent, Mr. <hi>Arnold,</hi> let my Name-sake be your Guest this night; content said All. About ten at night, with Mr. <hi>Arnold</hi> and his Armed Servants, out of the <hi>Lyon</hi> I went to take Horse in the Street, where, being Moon-light, a Multitude of People,
+<pb n="2" facs="tcp:49927:2"/> out of curiosity, expected to see me. At Mr. <hi>Arnolds</hi> House I arrived between e<g ref="char:EOLhyphen"/>leven and twelve of the Clock at night, where soon after I was conducted to my Chamber, in which two Servants, strong Men, lay also on a Pallat all night to se<g ref="char:EOLhyphen"/>cure me: Next Morning, rising about seven, my Mornings Draught was brought me: Immediately follow'd Mr. <hi>Arnold</hi> himself, and kindly ask'd me, how I rested that night; after three or four Turns about the Chamber, and my thanks for his Favours, he went down, and about half an hour after he sends up his Man unto me, and by him desires me to walk down; down I went, and in the Hall I found Mr. <hi>Arnold</hi> with several <hi>Abergavenny</hi> Constables, Charging of Guns. There walking with him, he would have invited me to the next Room, there to shew me his Baby, as he called it, which was a Ridiculous Figure of the Pope; I well understanding his meaning, waved the Discourse, and fairly took my leave; to Horse I went, Mr. <hi>Arnold</hi> accompanying me, with the Armed Constables; but when to my Horse I came, I perceived an Armed Soldier, called <hi>Kirby,</hi> (who three Months after murdered his own Father) at length holding my Horse by a long Leather Slip, as one who on foot was to lead my Horse all along to <hi>Monmouth,</hi> and I in that Posture to ride thereon; that troubling me, I took Mr. <hi>Arnold</hi> aside, and craved the favour the Slip might be taken away, as too ignominious, and that a Constable should only ride behind me, the rest of the Constables walking a foot a<g ref="char:EOLhyphen"/>bout me, and this was granted; but no sooner I was gone out of Mr. <hi>Arnolds</hi> sight, when he sends his Servant to charge the Chief Constable to put the Leather Slip un<g ref="char:EOLhyphen"/>to my Horses head again, and lead me as first intended, with strict Charge to be careful of me, as one charged with High Treason, though the Constable were so kind as not to do it; thus guarded, I came to <hi>Monmouth</hi> Prison, where a Friend had provided for me a good lower Room, at 14 <hi>s.</hi> a week, for Chamber, Bed, Linnen, Fire, Candle, Attendance; a high Rate, yet I was constrained thereto, o<g ref="char:EOLhyphen"/>therwise I must have lain in the Common Room, amongst the Common Prisoners: Here it is observable, how that the Goaler, that very first night shewed me a Letter, that very same day dated from Mr. <hi>Arnold</hi> to him, wherein he charged the Goaler to have a severe Eye over me, and to keep constant strong Guards about the Prison, so to secure me as one of High Treason Guilt; though the very same Morning Mr. <hi>Arnold</hi> told me, as I was coming out of the House, That if Mr. <hi>Sadler,</hi> that is, the Goaler, did shew me any uncivility, or severity, I should write two Lines unto him, and he would take an order with <hi>Sadler:</hi> However, all the two Months that I remained in <hi>Monmouth</hi> Prison, that is, from the 18th of <hi>November</hi> 1678. to the 13th of <hi>January</hi> 1678/9. in my Room I was kept close Prisoner, lock'd up at night, and barrd up by day, though indeed Friends by day had access unto me with an Under-Keepers leave.</p>
+            <p>During this my restraint at <hi>Monmouth,</hi> these Passages were not irremarkable; soon after my Imprisonment there, a strong Rumor was spread over several Coun<g ref="char:EOLhyphen"/>ties, with much noise, That I had broke Prison, and escaped; whereas I had not set foot over the Threshold of my Chamber all the time I was there, until my Re<g ref="char:EOLhyphen"/>moval to <hi>Ʋske,</hi> as the Goaler himself afterwards fully testified.</p>
+            <p>The like Rumor was as strongly spread, That there I had poisoned the Goaler, and this thus occasioned; He coming to my Chamber once late, and full of Drink, needs he must drink a Glass of Ale with me. I soon perceiving him far gone in Drink, and he still pressing me, why then, said I, you shall drink of my Drink, and so I filled a Glass of excellent Surfeit Water, which I had by me, mix'd with a little Brandy, I drank first, he pledg'd me; and this I did with an honest Intenti<g ref="char:EOLhyphen"/>on to heal his Surfeit of Ale; he then liking the Liquor, needs would have more, but I earnestly desiring him to go to his Rest, out he went, and meeting his Wife, he told her that I had given him his Dose, that he found himself to swell, that his But<g ref="char:EOLhyphen"/>tons did fly, which she soon with loud cry Bruited abroad; whereas it was my Sur<g ref="char:EOLhyphen"/>feit Water indeed which happily wrought with him, to the cleaning of his over<g ref="char:EOLhyphen"/>charged Stomack, else more perhaps his plentiful Ale had choaked him in Bed that night; and thus did I poison my Goaler, a Story which quickly overran five or six Counties, and took flight to <hi>London</hi> it self: Withal I add this other observation, That on <hi>Sunday</hi> Morning in <hi>Christmas</hi> Week two Magistrates came to me unexpect<g ref="char:EOLhyphen"/>edly to my Chamber in <hi>Monmouth</hi> Prison, who civily told me their business thus, That one <hi>Bedloe</hi> had inform'd the King and Council, how Mr. <hi>Charles Price</hi> had a
+<pb n="3" facs="tcp:49927:2"/> deep hand in the late Plot, and that I had told <hi>Bedloe</hi> so much, meaning Mr. <hi>Charles Price,</hi> Servant to the Lord Marquess of <hi>Worcester;</hi> they desired my Answer hereun<g ref="char:EOLhyphen"/>to, and I desired my Oath, and upon Oath, and under my hand I gave it, that to my knowledge I never saw <hi>Bedloe,</hi> I never spake with him, I never had any corre<g ref="char:EOLhyphen"/>spondence with him directly or indirectly; I further deposed, that I never heard, I never knew any thing of the Plot, till common fame had spread it over the Countrey: These Depositions of mine were sent up to <hi>London,</hi> I never heard more of it since.</p>
+            <p>Our new High-Sheriff was pleased to remove the Goal from <hi>Monmouth</hi> to <hi>Ʋske,</hi> where, upon the 13th of <hi>January,</hi> together with the Deputy-Sheriff, and Head-Goaler, I rid from <hi>Monmouth</hi> to <hi>Ʋske,</hi> and it snowing that day hard, in the way we alighted at <hi>Raglan,</hi> to warm and refresh our selves; whiles there I was, a Mes<g ref="char:EOLhyphen"/>senger comes to the Door, and desires to speak with me, his business was, That a very good Friend of mine, one Mr. <hi>Ignatius aliàs Walter Price,</hi> lay a dying about half a mile off thence, having undergone much hardship of hunger and of cold, by flying from Barn to Barn, from Cottage to Cottage, because furiously searched after as a Popish Prist, and that by his own Kinsman; he now dying, desired to see me; but I being then in no capacity to perform that friendly Office, because under the actual Custody of Officers, I only sent him my most true and best Wishes for his Souls happy Passage out of this turbulent World, to an Eternity of Rest; and on I went with my Keepers to my new Prison of <hi>Ʋske,</hi> where three days after I recei<g ref="char:EOLhyphen"/>ved the news of his Blessed Death, and next days decent Burial at <hi>Ragland:</hi> Four days after that followed a Message again, That Kinsman pretending not to believe the Popish Priest really dead, he caused the Grave to be opened, and the Shroud to be slit from Head to Navil, and with others viewing the Face, he found he was the Man, and truly dead; whereas, I am credibly inform'd, the covetous Catchpole his principal aim was in this Inhumane Action, to find a large Golden Cross, which he was falsely told, had been buried with the Body, and laid on the Dead Mans Breast; but finding no such thing, and so disappointed of his prey, he caused the Grave to be filled up again, and departed: Being come to <hi>Ʋske,</hi> there I found seve<g ref="char:EOLhyphen"/>ral Catholicks in Prison, for refusing the Oath of Allegiance, not but they were ready to swear faithful Allegiance to the King, yet that Oath they refused, because instructed they were, that it contained several other Points, which no found Ca<g ref="char:EOLhyphen"/>tholick could with safety of Conscience take. In <hi>Ʋske</hi> I remained Prisoner till the great Assizes, which was to begin the 28th of <hi>March</hi> at <hi>Monmouth.</hi>
+            </p>
+            <div type="trial_proceedings">
+               <head>The TRIAL.</head>
+               <p>THE 28th of <hi>March</hi> 1679. the Assizes began at <hi>Monmouth,</hi> Sir <hi>Robert Atkins</hi> being sole Judge, a Grand-Jury of Gentlemen was Returned by the Sheriff, and called, against several of whom Mr. <hi>Arnold</hi> and Mr. <hi>Price</hi> excepted, and so put by, as such they conceived might befriend me, a Challenge not known before; for in the Case between the Marquess of <hi>Worcester,</hi> and the Tenants of <hi>Wentwood,</hi> upon a Riot, <hi>Henry Williams</hi> Esq; and others, would have excepted against some of that Grand-Jury, the same Judge <hi>Atkins</hi> then positively said, It was ridiculous, and not usual to Challenge out of a Grand-Jury; at last a Jury was sworn, and an Indict<g ref="char:EOLhyphen"/>ment drawn up against me upon the Statute of the 27th <hi>Eliz.</hi> and preferred to the Grand-Jury. That Evening, being <hi>Friday,</hi> I was Arraigned upon that Bill, to which I pleaded, Not Guilty; the next day, about ten of the Clock in the Morning, the Judge came from the <hi>Nisi prius</hi> side, and sate at the Crown side; and I at the same time being brought to the Bar, the Crier made Proclamation for silence, that a Jury for Life and Death might be Impanelled, and I made my Challenges; present<g ref="char:EOLhyphen"/>ly a Jury from the other Bar was called, which was not usual, and I to Challenge, the Judge telling me, I might Challenge without hinderance; by guess I Challeng<g ref="char:EOLhyphen"/>ed three; but out of that <hi>Nisi prius</hi> Jury called to the Crown Bar, and that by Mr. <hi>Arnold</hi>'s own suggestion, who had a strong Influence upon the Judge, as being his Kinsman, and sitting at his Right Hand, divers were excepted by Mr. <hi>Arnold;</hi> whereupon, to make up the Jury, the Judge commanded the High-Sheriff to call some, and he called many, and of those still Mr. <hi>Arnold</hi> excepted, as either being of my Neighbourhood, or Acquaintance, for there being many in the Country;
+<pb n="4" facs="tcp:49927:3"/> the Sheriff seeing so many of his calling excepted, he desired Mr. <hi>Arnold</hi> himself should call whom he pleased; whereat the Judge checked the Sheriff, and said he was sawcy: At last, with much difficulty, a Jury was Impanelled, a Jury now contriv'd of none but such as pleased Mr. <hi>Arnold,</hi> principal Prosecutor against me, which was very hard, and an ignorant Jury it was withal: The Jury being Im<g ref="char:EOLhyphen"/>panelled, it was sworn, the Indictment read, and Witnesses called; Thus.</p>
+               <p>
+                  <hi>Clark of the Assizes. David Lewis,</hi> hold up thy Hand.</p>
+               <p>Here thou standest Indicted of High Treason by the Name of <hi>David Lewis,</hi> for that thou, being a Natural Subject of the King of <hi>England,</hi> hast past beyond the Seas, and hast taken Orders from the Church and See of <hi>Rome,</hi> and hast re<g ref="char:EOLhyphen"/>turned back again into <hi>England,</hi> and continued upwards of forty days, contrary to the Statute 27 <hi>Eliz.</hi> in that Case made and provided, which by the said Statute is High Treason. What hast thou to say for thy self, art thou Guilty, or not Guilty?</p>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Not Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Clark.</speaker>
+                  <p>By whom wilt thou be Try'd?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>By God and my Country.</p>
+               </sp>
+               <sp>
+                  <speaker>Clark.</speaker>
+                  <p>God send thee a Good Deliverance.</p>
+               </sp>
+               <sp>
+                  <speaker>Clark.</speaker>
+                  <p>Cryer, call <hi>William Price, Dorothy James, Maney Trott, John James, Ka<g ref="char:EOLhyphen"/>tharine Thomas;</hi> he calls them, and they all appear; then says the Clark to the Cryer, Swear them, and he sware them all.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>William Price,</hi> look on the Prisoner, do you know him?</p>
+               </sp>
+               <sp>
+                  <speaker>Price.</speaker>
+                  <p>Yes, my Lord, I do know him.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>What have you to say of him?</p>
+               </sp>
+               <sp>
+                  <speaker>Price.</speaker>
+                  <p>My Lord, about a year and a half ago I saw him at Mrs. <hi>Bartlets</hi> House, at a Place called <hi>Castle-Morton</hi> in <hi>Worcester-shire,</hi> and there I heard him read Mass, I was at Confession with him, and I received the Sacrament from him according to that way.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Was there any Altar, or any Crucifixes, or Coapes?</p>
+               </sp>
+               <sp>
+                  <speaker>Price.</speaker>
+                  <p>Yes, my Lord, that there were.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>How many times did you see him?</p>
+               </sp>
+               <sp>
+                  <speaker>Price.</speaker>
+                  <p>But that once my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Were you of that Way then?</p>
+               </sp>
+               <sp>
+                  <speaker>Price.</speaker>
+                  <p>Yes, my Lord, upwards of eighteen years.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>What are you now?</p>
+               </sp>
+               <sp>
+                  <speaker>Price.</speaker>
+                  <p>A Protestant my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Well Mr. <hi>Lewis,</hi> what have you to say to this?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>With your Lordships leave I will answer all together.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Very good, you do well, it will be so much the shorter. <hi>Dorothy James,</hi> look on the Prisoner, do you know him?</p>
+               </sp>
+               <sp>
+                  <speaker>Dorothy.</speaker>
+                  <p>Yes my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>What have you to say of him?</p>
+               </sp>
+               <sp>
+                  <speaker>Dorothy.</speaker>
+                  <p>My Lord, I saw him say Mass, take Confessions, give the Sacrament, Marry, Christen, and heard him Preach in the <hi>English</hi> and <hi>Welch.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Were there Altar and Crucifixes?</p>
+               </sp>
+               <sp>
+                  <speaker>Dorothy.</speaker>
+                  <p>Yes, my Lord, Altars, Crucifixes, Chalices, and such other things be<g ref="char:EOLhyphen"/>longing to that Way.</p>
+               </sp>
+               <sp>
+                  <speaker>Arnold.</speaker>
+                  <p>Did you see him give that they call Extream Unction?</p>
+               </sp>
+               <sp>
+                  <speaker>Dorothy.</speaker>
+                  <p>Yes, that I did, to my Uncle, my Fathers Brother.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Do you know what Extream Unction is?</p>
+               </sp>
+               <sp>
+                  <speaker>Dorothy.</speaker>
+                  <p>Yes that I do, it is annointing sick People with Oyl, when they are dying.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>It's right, that's another Sacrament of their Church, grounding them<g ref="char:EOLhyphen"/>selves upon these words of St. <hi>Paul,</hi> as I take it, <hi>If any be sick among you, let him be annointed:</hi> But that was in times of Miracles only.</p>
+               </sp>
+               <sp>
+                  <speaker>Arnold.</speaker>
+                  <p>Did he take upon him to free Souls from Purgatory?</p>
+               </sp>
+               <sp>
+                  <speaker>Dorothy.</speaker>
+                  <p>Yes that he did, and he had of me eight Pounds in Silver, and one piece of Gold, to free my Father's Soul.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>God is my Witness, to my best knowledge I never had one single piece of any Money from her or her Husband, upon any Account whatsoever.</p>
+               </sp>
+               <sp>
+                  <pb n="5" facs="tcp:49927:3"/>
+                  <speaker>Judge.</speaker>
+                  <p>Have you any more to say?</p>
+               </sp>
+               <sp>
+                  <speaker>Dorothy.</speaker>
+                  <p>No my Lord, and with that she laughed at the Bar.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>How now Woman, do you make a Laughing Game of it? carry your self more modest, for the Gentleman is for his Life, and it is no jesting matter. Well <hi>William James,</hi> look upon the Prisoner, do you know the Prisoner, and what have you to say of him?</p>
+               </sp>
+               <sp>
+                  <speaker>William James.</speaker>
+                  <p>Yes, my Lord, I do know him, and I have seen him read Mass many times, and take Confessions, and give the Sacrament, and Christen, and Marry.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Have you any more to say?</p>
+               </sp>
+               <sp>
+                  <speaker>William James.</speaker>
+                  <p>No my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Mr. <hi>Trot,</hi> what have you to say of the Prisoner, did you ever hear him read Mass, was he reputed commonly a Jesuite, or Popish Priest?</p>
+               </sp>
+               <sp>
+                  <speaker>Trot.</speaker>
+                  <p>Yes, my Lord, he was commonly reputed so, and I heard him often read Mass; and I saw him marry Mr. <hi>Gunters</hi> Daughter to Mr. <hi>Body.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Were you then of that Religion?</p>
+               </sp>
+               <sp>
+                  <speaker>Trot.</speaker>
+                  <p>My Lord, I was deluded by my Wife out of the Protestant Religion, and was a Papist during her life time.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Are you of that Religion still?</p>
+               </sp>
+               <sp>
+                  <speaker>Trot.</speaker>
+                  <p>No my Lord, when I saw their wicked Designs to kill my Gracious King, I abhor'd their Traiterous Proceedings, and left them, and am now a Protestant, in which I shall continue.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>You do well.</p>
+               </sp>
+               <sp>
+                  <speaker>Arnold.</speaker>
+                  <p>My Lord, there is Mr. <hi>Roger Sayes,</hi> a very material Witness.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Cryer, swear him, Mr. <hi>Sayes,</hi> what have you to say against the Prisoner?</p>
+               </sp>
+               <sp>
+                  <speaker>Sayes.</speaker>
+                  <p>My Lord, I was imployed with others on the 16th. of <hi>November</hi> last to go and search for him, and we found him, and took him, with several Popish things, which we carried away, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Did you see him at Mass?</p>
+               </sp>
+               <sp>
+                  <speaker>Sayes.</speaker>
+                  <p>No, my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Then sit down. What have you to say <hi>John James?</hi> What are you dead, or afraid to be whipt? look upon me, and speak out.</p>
+               </sp>
+               <sp>
+                  <speaker>John James.</speaker>
+                  <p>He married me and my Wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Is that all you know? did you see him at Mass?</p>
+               </sp>
+               <sp>
+                  <speaker>John James.</speaker>
+                  <p>I know no more.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Katharine Thomas,</hi> did you see him at Mass? why do you not speak Wo<g ref="char:EOLhyphen"/>man? speak Woman.</p>
+               </sp>
+               <sp>
+                  <speaker>Kath. Thomas.</speaker>
+                  <p>Yes. I have no more to say, do what you please with me.</p>
+               </sp>
+               <sp>
+                  <speaker>Arnold.</speaker>
+                  <p>My Lord, there is one <hi>Cornelius</hi> in Court, I see him, who was Clark.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Cryer, call him, swear him. Well <hi>Cornelius,</hi> did you ever see the Priso<g ref="char:EOLhyphen"/>ner at Mass?</p>
+               </sp>
+               <sp>
+                  <speaker>Cornelius.</speaker>
+                  <p>I am an Ignorant Fellow, I know not what Mass is?</p>
+               </sp>
+               <sp>
+                  <speaker>William James.</speaker>
+                  <p>My Lord, he was his Clark?</p>
+               </sp>
+               <sp>
+                  <speaker>Cornelius.</speaker>
+                  <p>No, I was his Servant.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Well, sit down. Mr. <hi>Lewis,</hi> now what have you to say to all these Wit<g ref="char:EOLhyphen"/>nesses for your self?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, my Indictment was, That being a Natural Subject of the King of <hi>England,</hi> I was ordained beyond the Seas by a Jurisdiction derived from the See of <hi>Rome,</hi> and returned back again into <hi>England,</hi> &amp;c. contrary to the Statute in that Case made and provided, 27 <hi>Eliz.</hi> Under your Lordships favour, I con<g ref="char:EOLhyphen"/>ceive that there has not been here any one Witness, who hath proved the Indict<g ref="char:EOLhyphen"/>ment, or any part thereof.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>What then? Do you expect that we should search the Records at <hi>Rome,</hi> or should bring persons to prove that they saw you ordained there? No Sir, it is enough that you have exercised the Function of a Priest in Coapes and Vestments, used in your Church, and that you have read Mass, taken Confessions, given Abso<g ref="char:EOLhyphen"/>lutions, Married, and Christened; if all this will not make you a Priest, what will? I have tryed several Popish Priests, but never met with so full a Proof, as this now.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>All these things supposed proved, will not make me a Priest, unless proved to be performed by me as one ordained beyond the Seas, by the Jurisdiction
+<pb n="6" facs="tcp:49927:4"/> derived from the See of <hi>Rome;</hi> for the very Ministry of the Church of <hi>England</hi> take special Confessions, and give formal Absolutions; many, in Case of necessity, Christen, though no Priests, and lately the Country knows it; one, no Popish Priest, solemnly married a Couple, neither can one prove to have seen me read Mass, unless it be proved first, That I was ordained beyond the Seas by a Jurisdi<g ref="char:EOLhyphen"/>ction derived from the See of <hi>Rome;</hi> for no such Ordination, no Priest; and no Priest, no Mass.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>To disprove all these Witnesses, by saying it cannot be proved you were ordained beyond the Seas, by a Jurisdiction derived from the See of <hi>Rome,</hi> is as much, as that saying <hi>Bellarmine</hi> thou lyest.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, were it proved that I read Mass, that were not Treason in me, for I am inform'd,<note place="margin">23 <hi>Eliz.</hi>
+                     </note> that it were but the Forfeiture of 200 Marks by a Statute of 23 <hi>El.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>'Tis true, who hears Mass forfeits one hundred Marks, <hi>But he that uses to read it, commits Treason:</hi> But these are the Tricks of you all, yet all will not do; have you any thing else to say?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>With your Lordships leave, now I desire to speak something to the Evi<g ref="char:EOLhyphen"/>dence of every particular Witness.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Speak then,</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, as to the first Witness, <hi>Price:</hi> As I hope to be saved, to the best of my memory, I never saw him, till this very day, before. I never knew or heard before now, of that Mrs. <hi>Bartlet,</hi> or of that Place <hi>Castle-morton;</hi> I never was in that Place all my life-time; nay, I never was in <hi>Worcester-shire,</hi> or in any House in <hi>Worcester-shire,</hi> but twice, the last time whereof was about five years ago; and that was but at my Inn in <hi>Worcester</hi> Town, where, with a Servant, I alighted, bespoke my Supper, went to the Coffee-house, drank two dishes of Coffee, read the Gazer, returned to my Inn again, supped, went to bed, next morning bought some few Books at the Stationers, dined, took Horse, returned home again: This is all the being I ever was in <hi>Worcester-shire.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Look upon him, do you know him?</p>
+               </sp>
+               <sp>
+                  <speaker>Price.</speaker>
+                  <p>Yes, my Lord, he is the Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Have you any more to say?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Yes, my Lord, Mr. <hi>Trot</hi> was married to a Kinswoman of mine, and she was a considerable Fortune to him; which he having spent very idlely, and she dying, he went to <hi>London,</hi> where finding an Imployment at Court, and there ha<g ref="char:EOLhyphen"/>ving done some unhandsome things, he was banished the Court, and now lives up<g ref="char:EOLhyphen"/>on the Charity of Gentlemen and Friends for his Bread; so that with good reason it may be believed it is rather Poverty and hope of Gain, than any thing else, that brings him here to accuse me.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Paupertas ad Turpia Cogit.</hi>
+                     <note n="*" place="margin">He was a Dwarf.</note> Little Gentleman, what can you say to this?</p>
+               </sp>
+               <sp>
+                  <speaker>Trot.</speaker>
+                  <p>My Lord, I was over with the King, and He commanded me to attend Him at <hi>Whitehall</hi> on his Restauration, where I came when I returned, and I was received into His Service, but was never banished the Court, only I came away up<g ref="char:EOLhyphen"/>on discontent, and still I may go there when I please: My Lord, I am desirous to do my King and Country good Service, but I am in danger of my life amongst them, and must look to my self.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>I Mr. <hi>Trot,</hi> have a care of your self, yo do well. Mr. <hi>Lewis,</hi> have you any more to say for your self?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, <hi>Dorothy James,</hi> and <hi>William James</hi> her Husband, their Evidence is grounded upon plain malice, and that malice thus grounded; They pretending I owed them Money, they sued me in <hi>Chancery;</hi> but after a considerable Charge at Law; finding themselves not like so to prevail, then they fell to threatning me, that they would have me in hand, that they would make me repent, that she would never give over to prosecute against me, till she had washed her hands in my Hearts Blood, and made Pottage of my Head.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Can you prove that?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Yes, my Lord, that I can.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Call your Witnesses then.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Cryer, call <hi>Richard Jones, Anne William, Anne James,</hi> and <hi>Katharine Cornelius.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>What can you say <hi>Richard Jones?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="tcp:49927:4"/>
+                  <speaker>Richard Jones.</speaker>
+                  <p>I heard <hi>William James</hi> say, he would make Mr. <hi>Lewis</hi> repent.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Anne William,</hi> what can you say?</p>
+               </sp>
+               <sp>
+                  <speaker>Anne William.</speaker>
+                  <p>I heard from several Persons, that <hi>Dorothy James</hi> said to several Persons in and about <hi>Carlion,</hi> that she would wash her hands in Mr. <hi>Lewis</hi> his Blood, and that she would have his Head to make Pottage of, as of a Sheeps head.</p>
+               </sp>
+               <sp>
+                  <speaker>Kath. Cornelius.</speaker>
+                  <p>My Lord, and I heard the same.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Anne James.</hi> what can you say?</p>
+               </sp>
+               <sp>
+                  <speaker>Anne James.</speaker>
+                  <p>I heard <hi>Dorothy James</hi> swear that she would wash her hands in Mr. <hi>Lewis</hi>'s Hearts Blood.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Where did you hear her say so?</p>
+               </sp>
+               <sp>
+                  <speaker>Anne James.</speaker>
+                  <p>I heard her say so in her own House, at the fire side, when I lived with her.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Well Mr. <hi>Lewis,</hi> all this will not do, all will not excuse you from being a Priest, or were you a Hypocrite?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, I am a Native of this Country.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>What, of this Country?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Yes, my Lord, of this Country, and those years I lived in this Country, I lived with the reputation of an honest Man amongst all honest Gentlemen and Neighbours.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Well, Mr. <hi>Lewis,</hi> have you any more to say?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, Mr. <hi>Sayes</hi> was one sworn Witness against me, I desire to ask him one Question.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Do so.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Mr. <hi>Sayes,</hi> when you took me, was there a Justice of Peace with you at taking of me?</p>
+               </sp>
+               <sp>
+                  <speaker>Sayes.</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, with this opportunity I humbly beg leave to clear my self from a foul Aspersion, wherewith I am callumniated over the whole Nation in a Printed Pamphlet, which Pamphlet I can here produce; and wherein there is not one Line of Truth. For it says at the end of it, that I was taken by a Justice of Peace, and others in a Place cunningly contriv'd under a Clay Floor, which Mr. <hi>Sayes</hi> knows to be untrue; and whereas it alleadges, That I cheated a poor woman of thir<g ref="char:EOLhyphen"/>ty Pounds, to redeem her Fathers Soul out of Purgatory, the Pamphlet names neither the Woman, nor her Husband, nor her Father, nor the place nor time, when nor where.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Does it not?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>No my Lord, so that the whole Pamphlet is one entire Lye, devised by some foolish malice.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Mr. <hi>Lewis,</hi> I, for my part, do not believe it to be true; have you any more to say?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>No more my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Then withdraw and repose; Gentlemen of the Jury here he stands In<g ref="char:EOLhyphen"/>dicted, <hi>&amp;c.</hi> (and sum'd up the whole Evidence) if you believe what the Witnes<g ref="char:EOLhyphen"/>ses swore, you must find the Prisoner guilty of High Treason, you have heard what was proved against him; therefore go together.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>My Lord, before the Jury go, I desire to speak something, which now occurs unto me, and is material against the Evidence of <hi>Price.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Jury stay.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>This very morning that <hi>Price</hi> came to my Chamber with the Goaler, it seems it was to view me; he took a Turn about the Room, all the time eying me; at his going out he was ask'd by the Goaler, whether I was the Man he meant, and he answered, if I was he, I was much changed, and if I was he, I had black short curled hair.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Can you prove that?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Yes my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Where are your Witnesses?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>Cryer, call <hi>Elizabeth Jones</hi> and <hi>Charles Edwards.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Woman, what can you say to this?</p>
+               </sp>
+               <sp>
+                  <speaker>Eliz. Jones.</speaker>
+                  <p>My Lord, <hi>Price</hi> this morning, after he had viewed the Gentleman in his Chamber, as he was going out he said, If he be the Man, he is much changed, and hath black curled short hair, which is not so.</p>
+               </sp>
+               <sp>
+                  <pb n="8" facs="tcp:49927:5"/>
+                  <speaker>Judge.</speaker>
+                  <p>
+                     <hi>Charles Edwards,</hi> what can you say?</p>
+               </sp>
+               <sp>
+                  <speaker>Edwards.</speaker>
+                  <p>I heard <hi>Price</hi> say the same words she relates.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Where is <hi>Price,</hi> Cryer, call him; but he was not to be found, being gone out of the Hall; (this was the trick of <hi>Coleman,</hi> to asperse the Witnesses.)</p>
+               </sp>
+               <stage>Here the Jury went out, and immediately returned again.</stage>
+               <sp>
+                  <speaker>Clark.</speaker>
+                  <p>Are you agreed of your Verdict?</p>
+               </sp>
+               <sp>
+                  <speaker>Jury.</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Clark.</speaker>
+                  <p>Who shall speak for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Jury.</speaker>
+                  <p>Foreman.</p>
+               </sp>
+               <sp>
+                  <speaker>Clark.</speaker>
+                  <p>
+                     <hi>David Lewis,</hi> hold up thy hand, do you find the Prisoner Guilty, or not Guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Jury.</speaker>
+                  <p>Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Have you any more to say?</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>No more my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Clark.</speaker>
+                  <p>
+                     <hi>David Lewis,</hi> hold up thy hand.</p>
+               </sp>
+               <sp>
+                  <speaker>Judge.</speaker>
+                  <p>Give me my Cap, <hi>David Lewis,</hi> thou shalt be led from this Place, to the Place from whence thou camest, so the Lord have mercy on thy Soul.</p>
+               </sp>
+               <sp>
+                  <speaker>Prisoner.</speaker>
+                  <p>I made a low Bow to the Judge, and the Court arose.</p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="speech">
+            <pb n="1" facs="tcp:49927:5"/>
+            <head>THE Last SPEECH OF Mr. <hi>David Lewis,</hi> Priest of the Society of <hi>Jesus,</hi> who was Executed as a Priest only, at <hi>Ʋske</hi> in <hi>Monmouth-shire,</hi> on the 27th day of <hi>August, Anno Domini</hi> 1679.</head>
+            <p>HEre is a numerous Assembly, I see, the Great Saviour of the World save every Soul of you all; I believe you are here met not only to see a Fellow-native die, but also with expectation to hear a dying Fellow-Native speak. If you expected it not, at least I intended it, I hope the favour will not be denied me, it being a favour so freely granted to several late dying persons in <hi>London</hi> it self; I shall en<g ref="char:EOLhyphen"/>deavour to speak inoffensively; I hope the same favour will not be denied me.</p>
+            <p>
+               <hi>Let none of you suffer as a Murderer or a Thief, but if as a Chri<g ref="char:EOLhyphen"/>stian, let him not be ashamed;</hi> St. <hi>Peters</hi> words in his <hi>1.</hi> Ep. Chap. <hi>4.</hi> Ver. <hi>15, 16.</hi> I hope by Gods Holy Spirit now whispered to my memory, and that to my abundant Consolation; for I suffer not as a Murderer, Thief, or such like Malefactor, but as a Christian, and therefore am not ashamed.</p>
+            <p>I distinguish two sorts of Life on Earth, Life-moral, and Life-natural; Life-moral is that by which we live with good Repute in the Esteem of other Men of Integrity; Life-natural is that by which we breath; in the first sort or kind, I thank God I have suffered lately, and exceedingly, when malici<g ref="char:EOLhyphen"/>ously, falsely, and most injuriously, I was branded for a publick Cheat,<note place="margin">Vid. Epilogue <hi>to</hi> Caesar Bor<g ref="char:EOLhyphen"/>gia, <hi>a Tragedy written by</hi> Nat. Lee.</note> in Pamphlet, in Ballad, on Stage, and that in the Head City of the Kingdom, yea and over the whole Nation, to the huge and great detriment of my good Name, which I always was as tender of, as the other I am now quitting.</p>
+            <p>The Pamphletical Story (believe my dying words) had no truth in it, neither to Substance nor Circumstance of the thing, a Story so false, that I could have easily defied the Face that had attempted to justifie it to my Face; so sordid a Business, a Story so ridiculous, that I wonder how any sober Chri<g ref="char:EOLhyphen"/>stian, at least who knew me, could as much as incline to believe so open an Improbability; who that Protestant young Man there mention'd was, I know not; who that Popish young Woman, who the Father dead a year and a half before, what County, what Parish, where all transacted, I know not, none of all these there particularized; and when in the face of the Country at last Lent Assizes, I vindicated my Innocency herein, to the satisfaction of the then Judge himself, why appeared not there then some one to make good the Charge, and disable my Defence? but none of this offer'd, a plain demonstra<g ref="char:EOLhyphen"/>tion to all Candid Minds, the whole was a meer fiction of some malicious per<g ref="char:EOLhyphen"/>son against me: God forgive them or him, I heartily do. How forward my
+<pb n="2" facs="tcp:49927:6"/> Endeavours always have been to my power to relieve the Poor, and not di<g ref="char:EOLhyphen"/>rectly to defraud them, Impartial Neighbours that know me can tell you; besides this, during my nine months Imprisonment, several foul and false Aspersions were cast out against me, and that by those unto whom, for full thirty years, I had been charitably serviceable: God forgive them, I hear<g ref="char:EOLhyphen"/>tily do; yet notwithstanding all these Calumniations, I hope I still retain the Character of an Honest Man amongst Gentlemen of Worth, with whom I con<g ref="char:EOLhyphen"/>versed, and with all Neighbours of Honesty, with and amongst whom I lived.</p>
+            <p>And now I am parting with the other Life by which I breath, behold, that within these few Moments of Time is to unbreath me; but why thus sledg'd to this Country <hi>Tyburne?</hi> why this so untimely Death of mine? have patience and I'le tell you, not for any plotting I assure you, and what I shall now say as to that, God is my Witness, I shall speak without any E<g ref="char:EOLhyphen"/>quivocation, Mental Reservation, or Palliation of Truth whatsoever.</p>
+            <p>By all that is Sacred in Heaven and Earth, I here solemnly protest, that I am as innocent from any Plot whatever against His Majesties Person or Government, as the Infant that left the Mothers Womb but yesterday; nei<g ref="char:EOLhyphen"/>ther did I ever hear or know any thing directly or indirectly of any such Plot, till publick fame had spread it over the Country between <hi>Michaelmas</hi> and <hi>All-Saints</hi> day last: This is true, as God shall judge and save my Soul; neither was there any guilt of any such black Crime found in me by Mr. <hi>Oates,</hi> Mr. <hi>Bedloe,</hi> Mr. <hi>Dugdale,</hi> and Mr. <hi>Prance,</hi> when by them I was strictly examined on that Point last <hi>May</hi> in <hi>Newgate, London;</hi> nay, had I had the least knowledge or hint of such Plot, I had been as zealously nimble in the discovery of it, as any the most Loyal Subject His Majesty hath in His three Kingdoms; wherefore when I am dead and gone, if some malevolent give out I lose my Life for Plotting, by Charity strive to disingage him of his mistake, do that Right to my dead Ashes.</p>
+            <p>I was never taught that Doctrine of King-killing, from my Soul I detest and abhor it as execrable, and directly opposite to the Principles of the Religion I profess, what that is you shall know by and by; it being the positive defi<g ref="char:EOLhyphen"/>nition of the Councel of <hi>Constance,</hi> That it is damnable for any Subject or private person, or any Subjects in Councel joyned, to murder his or their Lawful King or Prince, or use any publick or clandestine Conspiration against Him, though the said King or Prince were a Turk, Apostate, Persecutor, yea or a Tyrant in Government: Never tell me of <hi>Clement</hi> the Murderer of <hi>Henry</hi> the <hi>3d</hi> of <hi>France;</hi> never tell me of <hi>Ravilliacke,</hi> Murderer of <hi>Henry</hi> the <hi>4th</hi> of <hi>France;</hi> they did so, but wickedly they did so, and for it they were punished to severity, as Malefactors, and for it to this very day are stigmatized by all <hi>Roman</hi> Catholicks for very Miscreants and Villains: I hope you will not charge the whole <hi>Roman</hi> Catholick Body with the Villanies of fome few Desperadoes? by that Rule all Christianity must be answerable for the Treason of <hi>Judas;</hi> for my part, I always loved my King, I al<g ref="char:EOLhyphen"/>ways honoured His Person, and I daily prayed for His Prosperity; and now, with all unfained Cordiality, I say it, God bless my Gracious King and Lawful Prince, <hi>Charles</hi> the Second, King of <hi>England,</hi> and Prince of <hi>Wales,</hi> God bless Him Temporally and Eternally, God preserve Him from all His real Enemies, God direct Him in all His Councils, that may tend to the greater Glory of the same Great God; and whatever late Plot hath been, or is, the Father of Lights bring it to light, the Contrivers of it, and the Actors in it, that such may be brought to their condign punishment, and Innocence preserved.</p>
+            <pb n="3" facs="tcp:49927:6"/>
+            <p>But why again this untimely Death? my Religion is the <hi>Roman</hi> Catholick Religion, in it I have lived above these forty years, in it I now die, and so fixedly die, that if all the good things in this World were offered me to re<g ref="char:EOLhyphen"/>nounce it, all should not move me one hairs breadth from my <hi>Roman</hi> Ca<g ref="char:EOLhyphen"/>tholick Faith, a <hi>Roman</hi> Catholick I am, a <hi>Roman</hi> Catholick Priest I am, a <hi>Roman</hi> Catholick Priest of that Religious Order called the Society of Jesus I am, and I bless God who first called me, and I bless the hour in which I was first called both unto Faith and Function.</p>
+            <p>Please now to observe, I was condemned for reading Mass, hearing Con<g ref="char:EOLhyphen"/>fessions, Administring the Sacraments, Annointing the Sick, Christening, Marrying, Preaching: As for reading the Mass, it was the old, and still is, the Accustomed and Laudable Liturgy of the Holy Church, and all the other Acts, which are Acts of Religion, tending to the Worship of God; and for this dying, I dye for Religion: Moreover know, that when last <hi>May</hi> I was in <hi>London</hi> under examination concerning the Plot, a prime Examinant told me, That to save my Life, and increase my Fortunes, I must make some discovery of the Plot, or Conform; discover Plot I could not, for I knew of none; Conform I would not, because it was against my Conscience, then by consequence I must dye, and so now dying, I dye for Conscience and Religion; and dying upon such good scores, as far as hu<g ref="char:EOLhyphen"/>mane frailty permits, I dye with Alacrity Interior and Exterior; from the abundance of the Heart, let not only Mouths, but Faces also speak.</p>
+            <p>Here methinks I feel Flesh and Blood ready to burst into loud Cries, Tooth for Tooth, Eye for Eye, Blood for Blood, Life for Life; No, cryeth Holy Gospel, <hi>Forgive and you shall be forgiven; Pray for those that persecute you; Love your Enemies;</hi> and I profess my self a Child of the Gospel, and the Gospel I obey.</p>
+            <p>Whomever, present or absent, I have ever offended, I humbly desire them to forgive me; as for my Enemies, had I as many Hearts as I have Fingers, with all those Hearts would I forgive my Enemies, at least-wise with all that single Heart I have, I freely forgive them all, my Neigh<g ref="char:EOLhyphen"/>bours that betr<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> me, the Persons that took me, the Justices that Com<g ref="char:EOLhyphen"/>mitted me, the <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tnesses that proved against me, the Jury that found me, the Judge that Condemned me, and others who ever, that out of malice or zeal, covertly or openly, have been contributive to my Condemnation; but singularly and especially I forgive my Capital Persecutor, who hath been so long thirsting after my Blood, from my Soul I forgive him, and wish his Soul so well, that were it in my power, I would seat him a Seraphim in Heaven, and I pray for them in the Language of Glorious St. <hi>Stephen</hi> the Protomartyr; <hi>Lord, lay not this sin unto them;</hi> or better yet, in the Style of our Great Master <hi>Christ</hi> himself, <hi>Father forgive them, they know not what they do.</hi>
+            </p>
+            <p>And with Reason I love them also; for though they have done them<g ref="char:EOLhyphen"/>selves a vast Soul-prejudice, yet they have done me an incomparable favour, which I shall eternally acknowledge; but chiefly I love them for his sake, who said, <hi>Love your Enemies;</hi> and in Testimony of my Love, I wish them, and it is the best of Wishes, from the Center of my Soul, I wish them a good Eternity: O Eternity! Eternity! How momentanean are the Glories, Riches, and Pleasures of this World? and how desirable art thou Endless Eternity?</p>
+            <p>And for my said Enemies attaining thereunto, I humbly beseech God to give them the Grace of true Repentance before they and this World part.</p>
+            <pb n="4" facs="tcp:49927:7"/>
+            <p>Next to my Enemies, give me leave to lift up my Eyes, Hands, and Heart to <hi>Heaven,</hi> and drop some few Words of Advice unto, and for my Friends, as well those present as absent. Friends, <hi>Fear God, Honour your King,</hi> be firm in your Faith, avoid Mortal Sin, by frequenting the Sacraments of Holy Church, patiently bear your Persecutions and Afflicti<g ref="char:EOLhyphen"/>ons, Forgive your Enemies, your Sufferings are great, I say be firm in your Faith to the end, yea even to Death, then shall you heap unto your selves Coelestial Treasures in the <hi>Heavenly Jerusalem,</hi> where no Thief Robbeth, no Moth Eateth, and no Rust Consumeth; and have that Bles<g ref="char:EOLhyphen"/>sed Saying of the Blessed St. <hi>Peter,</hi> Prince of the Apostles, always in your memory, which I heartily recommend unto you, <hi>viz. Let none of you suf<g ref="char:EOLhyphen"/>fer as a Murderer or Thief, but if as a Christian, let him not be a<g ref="char:EOLhyphen"/>shamed, but glorifie God in his Name.</hi>
+            </p>
+            <p>Now it is high time I make my Addresses to Heaven, and supplicate the Divine Goodness in my own behalf, by some few short and Cordial Ejacu<g ref="char:EOLhyphen"/>lations of Prayers.</p>
+            <p>Sovereign Lord God, <hi>Eternal Father of Heaven, Creator of all, Con<g ref="char:EOLhyphen"/>server of all, sole Author of Grace and Glory, with prostrate Heart I Adore thee, and thee only I Adore as God, the Giving of Divine Ho<g ref="char:EOLhyphen"/>nour to any Creature of highest degree, I abhor and detest as damna<g ref="char:EOLhyphen"/>ble Idolatry.</hi>
+            </p>
+            <p>Incarnate Son of God, <hi>True God, Thou hast purchased a Church here upon Earth with thy Sacred Blood, and planted it with thy Sa<g ref="char:EOLhyphen"/>cred Labours, a Church, One, Holy, Catholick, and Apostolick, a Church to continue to the Consummation of the World: Whatever that Church of thine hath by Revelation from thee, whatever that Church of thine hath taught me, and commanded me to believe, I belive it to an Jota.</hi>
+            </p>
+            <p>God Holy Ghost, <hi>who maketh thy Sun to shine on Good and Bad, thy Rain to fall on the Just and Unjust, I praise thy Holy Name, and thank thee for the Innumerable Benefits thou hast <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n pleased to be<g ref="char:EOLhyphen"/>stow and confer upon me, thy unworthy Servant, the threescore and three years I now have lived on Earth.</hi>
+            </p>
+            <p>
+               <hi>The Grace of our Lord Jesus Christ, and the Charity of God, and the Communication of the Holy Ghost, be with you all,</hi> Amen, <hi>2</hi> Cor. <hi>13.</hi> Chap. <hi>14.</hi> Verse.</p>
+            <p>
+               <hi>The Peace of God that passeth all understanding, keep your Hearts and Minds in the Knowledge and Love of God, and of his Son Jesus Christ our Lord, and the Blessing of God Almighty, Father, Son, and Holy Ghost, be among you, and remain with you all, and always,</hi> Amen.</p>
+            <p>O Holy Trinity, <hi>three Persons, and one God, from the bottom of my Heart, I am sorry that ever I have offended thee my Good God, even to an Idle Word; yet through the Mercy of thee, my God, and Merits of my Redeemer, I strongly hope for an Eternal Salvation.</hi>
+            </p>
+            <p>
+               <hi>Sweet Jesus Receive my Soul.</hi>
+            </p>
+            <p>And so was Executed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
